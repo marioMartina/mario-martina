@@ -1,7 +1,7 @@
 // Function to load the language translations
 async function loadLanguage(language) {
     try {
-        const response = await fetch(`./translation/${language}.json`);
+        const response = await fetch(`../translation/${language}.json`);
         const translations = await response.json();
 
         // Update each element with the data-key attribute
