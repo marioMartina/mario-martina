@@ -35,7 +35,7 @@ async function loadLanguage(language) {
 
 // Example of how you could initialize the default language on page load
 document.addEventListener("DOMContentLoaded", () => {
-    const savedLanguage = localStorage.getItem('selectedLanguage') || 'en'; // Default to English if no language is saved
+    const savedLanguage = localStorage.getItem('selectedLanguage') || 'it'; // Default to English if no language is saved
     loadLanguage(savedLanguage); // Load the saved or default language
 });
 
