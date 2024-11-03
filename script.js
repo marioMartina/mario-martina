@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const photos = [
         'images1/gellary/1.JPG', 'images1/gellary/2.JPG', 'images1/gellary/3.JPG',
         'images1/gellary/4.JPG', 'images1/gellary/5.JPG', 'images1/gellary/6.JPG',
-        'images1/gellary/7.JPG', 'images1/gellary/8.JPG', 'images1/gellary/9.jpg',
+        'images1/gellary/7.JPG', 'images1/gellary/9.jpg',
         'images1/gellary/10.JPG', 'images1/gellary/11.JPG', 'images1/gellary/12.jpg',
         'images1/gellary/13.JPG', 'images1/gellary/14.JPG', 'images1/gellary/15.JPG',
         'images1/gellary/16.JPG', 'images1/gellary/17.JPG', 'images1/gellary/18.JPG',
@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
         'images1/gellary/28.JPG', 'images1/gellary/29.JPG', 'images1/gellary/30.JPG',
         'images1/gellary/31.JPG', 'images1/gellary/32.JPG', 'images1/gellary/33.JPG',
         'images1/gellary/34.JPG', 'images1/gellary/35.JPG', 'images1/gellary/36.JPG',
-        'images1/gellary/37.JPG', 'images1/gellary/38.JPG', 'images1/gellary/39.JPG',
+        'images1/gellary/37.JPG', 'images1/gellary/39.JPG',
         'images1/gellary/40.JPG', 'images1/gellary/41.JPG', 'destinations/images/dahab/1.JPG',
         'destinations/images/dahab/2.JPG', 'destinations/images/dahab/3.JPG',
         'destinations/images/dahab/4.JPG', 'destinations/images/dahab/5.JPG',
