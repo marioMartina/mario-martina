@@ -29,7 +29,13 @@ document.addEventListener("DOMContentLoaded", function () {
         'destinations/images/aswan/5.jpg', 'destinations/images/aswan/6.jpg',
         'destinations/images/aswan/7.jpg', 'destinations/images/aswan/8.jpg',
         'destinations/images/aswan/9.jpg', 'destinations/images/aswan/10.jpg',
-        'destinations/images/aswan/11.jpg', 
+        'destinations/images/aswan/11.jpg', 'destinations/images/tiran/1.jpg',
+        'destinations/images/tiran/2.jpg', 'destinations/images/tiran/3.jpg',
+        'destinations/images/tiran/4.jpg', 'destinations/images/tiran/5.jpg',
+        'destinations/images/tiran/6.jpg', 'destinations/images/tiran/7.jpg',
+        'destinations/images/tiran/8.jpg', 'destinations/images/tiran/9.jpg',
+        'destinations/images/tiran/10.jpg', 'destinations/images/tiran/11.jpg',
+        'destinations/images/tiran/12.jpg'
         // Add more photos here as needed
     ];
 
